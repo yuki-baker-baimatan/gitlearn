@@ -3,4 +3,4 @@ Git is a free software under the General Plubic License(GPL)
 Git usual commands are showed below:
 git --config user.name "AppleLiao"
 git --config user.email "gpliao@grandstream.com"
-this is test "git checkout --filename" command
+this is test "git checkout --filename" command test the checkout how to reset in two situations.if I modify the text again after add to the cached area(Index) and then run the "checkout -- filename",the result is ..
