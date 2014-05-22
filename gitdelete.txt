@@ -1,0 +1,1 @@
+the file tests the deleting function in git.
