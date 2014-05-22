@@ -27,7 +27,8 @@ ssh way
 git remote add origin git@github.com:username/learngit.git
 
 
-
+I has renamed the repository in my local PC to origin_gitlearn.
+use "git remote" to show the command usage.
 
 
 
