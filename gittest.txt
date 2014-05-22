@@ -3,3 +3,4 @@ Git is a free software under the General Plubic License(GPL)
 Git usual commands are showed below:
 git --config user.name "AppleLiao"
 git --config user.email "gpliao@grandstream.com"
+this is test "git checkout --filename" command
